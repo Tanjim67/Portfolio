@@ -48,3 +48,45 @@ section{
     background-position-x: left;
     background-position-y: top;
 }
+
+.profile1{
+    margin-left: 6%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+    text-align: justify;
+    float: right;
+}
+
+.profile1 img{
+    padding-right: 100px;
+    padding-top: 100px;
+    width: 90%
+
+}
+
+.scream{
+    background-image: url(images/screambg.jpg);
+    /* background-position: center; */
+    background-size: cover;
+}
+
+.profile2{
+    margin-left: 6%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+    text-align: justify;
+    float: left;
+}
+
+.profile2 img{
+    padding-top: 100px;
+    width: 95%;
+}
+
+.jamppi{
+    background-image: url(images/209770.jpg);
+    /* background-position: center; */
+    background-size: cover;
+}
