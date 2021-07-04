@@ -133,3 +133,9 @@ h1{
 footer p{
     text-align: center;
 }
+
+.video{
+    background-image: url(images/vb.jpg);
+    /* background-position: center; */
+    background-size:cover;
+}
