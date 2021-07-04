@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+    background-color: rgb(47, 47, 47);
+    color: rgb(226, 226, 226);
+}
+
+h1{
+    font-size: 50px;
+}
+
+.darkblue{
+    color: rgb(106, 106, 219);
+    font-size: 70px;
+}
+
+.welcome{
+    margin-left: 6%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+    text-align: justify;
+    float: left;
+}
