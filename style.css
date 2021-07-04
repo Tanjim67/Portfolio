@@ -9,7 +9,7 @@ h1{
     font-size: 50px;
 }
 
-section{
+.flexible{
     display: flex;
 }
 
@@ -89,4 +89,47 @@ section{
     background-image: url(images/209770.jpg);
     /* background-position: center; */
     background-size: cover;
+}
+
+.score{
+    margin-left: 6%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+    text-align: justify;
+    /* float: left; */
+}
+
+.score img{
+    /* padding-top: 100px; */
+    /* width: 90%; */
+    padding-right: 35px;
+    height: auto;
+    width: 775px;
+    /* border-radius: 10px; */
+    /* box-shadow: 5px 5px 20px rgb(90, 90, 90); */
+
+}
+
+.profile3{
+    margin-left: 6%;
+    /* padding: 80px; */
+    padding: 2%;
+    width: 40%;
+}
+
+#design1{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(63, 62, 62),rgb(44, 189, 99));
+    border-image-slice:  1;
+}
+
+#design2{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(63, 62, 62),rgb(129, 28, 28));
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
 }
